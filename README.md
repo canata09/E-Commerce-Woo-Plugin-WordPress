@@ -6,23 +6,23 @@
 
 ## What is the E Commerce Woo Plugin WordPress?
 
-Try
+Try Try Try Try Try Try 
 
 ## Key Features
 
-- 🚀 **Feature 1:** Accelerate your workflow with a set of intuitive shortcuts and automation tools. Spend less time on repetitive tasks and more time on what truly matters.
-- 🎨 **Feature 2:** Seamlessly integrate with your favorite design and development tools. Our plugin plays well with industry standards, ensuring a smooth collaboration between teams.
-- 📦 **Feature 3:** Access a library of pre-built templates and modules that can be easily customized to fit your project requirements.
-- 📊 **Feature 4:** Gain valuable insights with built-in analytics and performance tracking. Optimize your project's efficiency and make data-driven decisions.
-- ⚙️ **Feature 5:** Extensible architecture allows developers to create and share their own plugins and extensions, expanding the capabilities of the XYZ Plugin.
+- 🚀 **Feature 1:** Feature.
+- 🎨 **Feature 1:** Feature.
+- 📦 **Feature 1:** Feature.
+- 📊 **Feature 1:** Feature.
+- ⚙️ **Feature 1:** Feature.
 
 ## Getting Started
 
 Getting started with the XYZ Plugin is a breeze:
 
-1. **Installation:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
-2. **Activation:** Use your provided license key to activate the plugin and unlock its full potential.
-3. **Exploration:** Dive into the intuitive interface, explore the features, and let your creativity run wild.
+1. **From the WooCommerce Plugin's Settings -> Accounts and Privacy Menu:** Members are enabled to create a new account.
+2. **From the WooCommerce Plugin's Settings -> Accounts and Privacy Menu:** Members are enabled to create a new account.
+3. **From the WooCommerce Plugin's Settings -> Accounts and Privacy Menu:** Members are enabled to create a new account.
 
 ## Installation
 
