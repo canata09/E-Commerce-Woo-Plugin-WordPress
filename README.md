@@ -30,7 +30,7 @@ The "templates" folder in the WooCommerce Plugin installation files is copied to
 
 ## Documentation
 
-For in-depth information about using the XYZ Plugin, check out our [Documentation](documentation.md) page.
+From the WooCommerce Plugin's Status -> Templates Overrides: WooCommerce file directory report.
 
 ## Feedback and Support
 
