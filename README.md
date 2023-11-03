@@ -26,7 +26,7 @@ Getting started with the XYZ Plugin is a breeze:
 
 ## Installation
 
-Detailed installation instructions can be found in the [Installation Guide](installation_guide.md).
+WooCommerce Plugin installation files are copied to the "themes" folder and the folder name is changed to "woocommerce".
 
 ## Documentation
 
