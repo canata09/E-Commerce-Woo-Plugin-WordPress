@@ -6,7 +6,7 @@
 
 ## What is the E Commerce Woo Plugin WordPress?
 
-Try Try Try Try Try Try 
+Used to add woocommerce support to themes using after_setup_theme command
 
 ## Key Features
 
