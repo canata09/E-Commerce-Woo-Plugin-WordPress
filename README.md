@@ -12,7 +12,7 @@ Try Try Try Try Try Try
 
 - 🚀 **Feature 1:** Feature.
 - 🎨 **Feature 1:** Feature.
-- 📦 **Feature 1:** Feature.
+- 📦 **single-product 1:** Single Product Details.
 - 📊 **Feature 1:** Feature.
 - ⚙️ **Feature 1:** Feature.
 
