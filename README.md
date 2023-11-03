@@ -2,7 +2,14 @@
 
 ![Plugin Logo](plugin_logo.png)
 
-👋 Welcome to the official repository of the XYZ Plugin! We're thrilled to introduce you to our powerful and versatile software plugin, meticulously crafted by our talented team of software engineers. Whether you're a developer, designer, or an enthusiast, this plugin aims to enhance your experience by bringing a new dimension to your workflow.
+👋 Duplicate your theme’s page.php file, and name it woocommerce.php. This file should be found like this: wp-content/themes/YOURTHEME/woocommerce.php. Open up your newly created woocommerce.php in a text editor, or the editor of your choice. <br />
+Next you need to find the loop (see The_Loop). The loop usually starts with a: <br />
+`<?php if ( have_posts() ) :` <br />
+and usually ends with: <br />
+`<?php endif; ?>` <br />
+This varies between themes. Once you have found it, delete it. In its place, put: <br />
+`<?php woocommerce_content(); ?>` <br />
+This will make it use WooCommerce’s loop instead. Save the file. You’re done. <br />
 
 ## What is the E Commerce Woo Plugin WordPress?
 
