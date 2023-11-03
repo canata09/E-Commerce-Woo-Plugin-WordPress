@@ -10,6 +10,7 @@ and usually ends with: <br />
 This varies between themes. Once you have found it, delete it. In its place, put: <br />
 `<?php woocommerce_content(); ?>` <br />
 This will make it use WooCommerce’s loop instead. Save the file. You’re done. <br />
+`Note: When creating woocommerce.php in your theme’s folder, you will not be able to override the woocommerce/archive-product.php custom template as woocommerce.php has priority over archive-product.php. This is intended to prevent display issues.`
 
 ## What is the E Commerce Woo Plugin WordPress?
 
