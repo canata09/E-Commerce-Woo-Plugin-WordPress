@@ -39,6 +39,63 @@ The "templates" folder in the WooCommerce Plugin installation files is copied to
 ## Documentation
 
 From the WooCommerce Plugin's Status -> Templates Overrides: WooCommerce file directory report.
+```
+/mytheme
+    /woocommerce
+        /single-product
+            /product-image.php
+            /product-thumbnails.php
+        /archive-product.php
+        /cart
+            /cart-empty.php
+            /cart-item-data.php
+            /cart-shipping.php
+            /cart-totals.php
+            /cart.php
+        /checkout
+            /form-billing.php
+            /form-checkout.php
+            /form-coupon.php
+            /form-login.php
+            /form-pay.php
+            /form-shipping.php
+            /review-order.php
+            /terms.php
+            /thankyou.php
+        /myaccount
+            /form-edit-account.php
+            /form-edit-address.php
+            /form-login.php
+            /form-lost-password.php
+            /form-reset-password.php
+            /my-account.php
+            /navigation.php
+            /orders.php
+        /order
+            /order-details-customer.php
+            /order-details-item.php
+            /order-details.php
+        /global
+            /breadcrumb.php
+            /form-login.php
+            /quantity-input.php
+            /sidebar.php
+        /loop
+            /add-to-cart.php
+            /loop-end.php
+            /loop-start.php
+            /no-products-found.php
+            /orderby.php
+            /pagination.php
+            /result-count.php
+            /sale-flash.php
+    /functions.php
+    /style.css
+    /index.php
+    /header.php
+    /footer.php
+    /screenshot.png
+```
 
 ## Feedback and Support
 
