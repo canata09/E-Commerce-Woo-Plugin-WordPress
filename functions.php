@@ -1,5 +1,23 @@
 <?php
 
+// Add WooCommerce Theme Support
+
+function woocommerce_support() {
+    add_theme_support( 'woocommerce' );
+}
+add_action( 'after_setup_theme', 'woocommerce_support' );
+
+
+
+
+// Enqueuing custom styles or scripts to enhance your WooCommerce pages
+
+function custom_woocommerce_styles() {
+    wp_enqueue_style('custom-woocommerce', get_template_directory_uri() . '/css/custom-woocommerce.css');
+}
+add_action('wp_enqueue_scripts', 'custom_woocommerce_styles');
+
+
 
 
 /**
