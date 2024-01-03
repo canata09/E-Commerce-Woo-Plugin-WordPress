@@ -10,16 +10,15 @@ Create "templates" folder in the "themes" folder and change the folder's name to
 
 ## Creating Theme Support for WooCommerce
 
-Used to add woocommerce support to themes using after_setup_theme command:  <br />
-Detailed installation instructions can be found in the [Theme Support Guide](docs/functions.php).
+You can find detailed setup instructions for adding WooCommerce support to themes using the after_setup_theme command in the [Theme Support Guide](docs/functions.php).
 
-1. **Installation:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
-2. **Activation:** Use your provided license key to activate the plugin and unlock its full potential.
-3. **Exploration:** Dive into the intuitive interface, explore the features, and let your creativity run wild.
+1. **Installation:** Try.
+2. **Activation:** Try.
+3. **Exploration:** Try.
 
 ## Installation
 
-Detailed installation instructions can be found in the [Installation Guide](installation_guide.md).
+Try
 
 ## Information About Using E-Commerce Pages
 
