@@ -22,7 +22,17 @@ Here's the step-by-step pseudocode:
 ## Information About Using E-Commerce Pages
 
 From the WooCommerce Plugin's Pages -> Visit Shop Page  <br />
-Görünüm & Menüler Shop - Shop Page.
+Görünüm & Menüler Shop - Shop Page.  <br />
+In order to design a My Login System, it is necessary to install the conditional statement on the home page.
+```
+<?php if ( is_user_logged_in() ) : ?>
+    <a href="<?php echo get_permalink(get_option("woocommerce_myaccount_page_id")); ?>"> My Account </a>
+    <a href="<?php echo wp_logout_url(get_permalink(get_option("woocommerce_myaccount_page_id"))); ?>"> Logout </a>
+<?php else : ?>
+    <a href="<?php echo get_permalink(get_option("woocommerce_myaccount_page_id")); ?>"> Login/Register </a>
+<?php endif; ?>
+```
+Try
 
 ## Key Features
 
