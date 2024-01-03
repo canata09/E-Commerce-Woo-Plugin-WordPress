@@ -32,17 +32,11 @@ From the WooCommerce Plugin's Pages -> Visit Shop Page: Görünüm & Menüler Sh
 - 📊 **Feature 4:** Try
 - ⚙️ **Feature 5:** Try
 
-## Feedback and Support
-
-We value your input! If you have any feedback, suggestions, or run into any issues, please don't hesitate to [open an issue](../../issues) here on GitHub.
-
-For additional assistance, you can also contact our support team at support@xyzplugin.com.
-
 ## Testing
 
-From the WooCommerce Plugin's 
-Tools -> Import - WooCommerce products (CSV)
-There is a many Sample Shop Documents in " WordPress Directory - Plugins - WooCommerce - Sample-data " folder.
+From the WooCommerce Plugin's <br />
+Tools -> Import - WooCommerce products (CSV) <br />
+There is a many Sample Shop Documents in " WordPress Directory - Plugins - WooCommerce - Sample-data " folder. <br />
 
 ## Contributing
 
