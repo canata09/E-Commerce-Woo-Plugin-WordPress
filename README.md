@@ -40,7 +40,9 @@ For additional assistance, you can also contact our support team at support@xyzp
 
 ## Testing
 
-From the WooCommerce Plugin's Tools -> Import - WooCommerce products (CSV): There is a many Sample Shop Documents in ( WooCommerce - Plugins - Sample-data ) folder.
+From the WooCommerce Plugin's 
+Tools -> Import - WooCommerce products (CSV)
+There is a many Sample Shop Documents in " WordPress Directory - Plugins - WooCommerce - Sample-data " folder.
 
 ## Contributing
 
