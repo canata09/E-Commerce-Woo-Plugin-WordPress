@@ -12,13 +12,13 @@ Create "templates" folder in the "themes" folder and change the folder's name to
 
 You can find detailed setup instructions for adding WooCommerce support to themes using the after_setup_theme command in the [Theme Support Guide](docs/functions.php).
 
-1. **Installation:** Try.
-2. **Activation:** Try.
-3. **Exploration:** Try.
-
 ## Installation
 
-Try
+To customize the layout of a specific WooCommerce page in your theme, you can override the WooCommerce template files in your theme. Here's the step-by-step pseudocode:
+
+1. **Installation:** Identify the WooCommerce template file that corresponds to the page you want to customize. These files are located in the `wp-content/plugins/woocommerce/templates` directory of your WordPress installation.
+2. **Activation:** Copy the template file to your theme's directory, maintaining the same directory structure. For example, if you're customizing the single product page, you would copy `wp-content/plugins/woocommerce/templates/single-product.php` to `wp-content/themes/your-theme/woocommerce/single-product.php`.
+3. **Exploration:** Open the copied file in your theme's directory and make your desired changes.
 
 ## Information About Using E-Commerce Pages
 
