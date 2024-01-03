@@ -6,7 +6,7 @@
 
 ## What is the E Commerce Woo Plugin WordPress?
 
-Try
+Create "templates" folder in the "themes" folder and change the folder's name to "woocommerce".
 
 ## Getting Started
 
