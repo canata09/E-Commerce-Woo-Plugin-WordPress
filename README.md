@@ -14,7 +14,8 @@ You can find detailed setup instructions for adding WooCommerce support to theme
 
 ## Installation
 
-To customize the layout of a specific WooCommerce page in your theme, you can override the WooCommerce template files in your theme. Here's the step-by-step pseudocode:
+To customize the layout of a specific WooCommerce page in your theme, you can override the WooCommerce template files in your theme. [Folders Dir Docs](docs/THEME_DIR.MD).
+Here's the step-by-step pseudocode:
 
 1. **Installation:** Identify the WooCommerce template file that corresponds to the page you want to customize. These files are located in the `wp-content/plugins/woocommerce/templates` directory of your WordPress installation.
 2. **Activation:** Copy the template file to your theme's directory, maintaining the same directory structure. For example, if you're customizing the single product page, you would copy `wp-content/plugins/woocommerce/templates/single-product.php` to `wp-content/themes/your-theme/woocommerce/single-product.php`.
@@ -41,7 +42,7 @@ There is a many Sample Shop Documents in " WordPress Directory - Plugins - WooCo
 
 ## Additional Contributing
 
-Duplicate your theme’s page.php file, and name it woocommerce.php. [Theme Support Guide](docs/woocommerce.php).
+Duplicate your theme’s page.php file, and name it woocommerce.php. [Additional Contributing Docs](docs/woocommerce.php).
 This file should be found like this: wp-content/themes/YOURTHEME/woocommerce.php. Open up your newly created woocommerce.php in a text editor, or the editor of your choice. Next you need to find the loop (see The_Loop). The loop usually starts with a:
 ```
 <?php if ( have_posts() ) :
