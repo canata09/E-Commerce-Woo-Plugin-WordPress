@@ -2,16 +2,6 @@
 
 ![Plugin Logo](plugin_logo.png)
 
-👋 Duplicate your theme’s page.php file, and name it woocommerce.php. This file should be found like this: wp-content/themes/YOURTHEME/woocommerce.php. Open up your newly created woocommerce.php in a text editor, or the editor of your choice. <br />
-Next you need to find the loop (see The_Loop). The loop usually starts with a: <br />
-`<?php if ( have_posts() ) :` <br />
-and usually ends with: <br />
-`<?php endif; ?>` <br />
-This varies between themes. Once you have found it, delete it. In its place, put: <br />
-`<?php woocommerce_content(); ?>` <br />
-This will make it use WooCommerce’s loop instead. Save the file. You’re done. <br />
-`Note: When creating woocommerce.php in your theme’s folder, you will not be able to override the woocommerce/archive-product.php custom template as woocommerce.php has priority over archive-product.php. This is intended to prevent display issues.`
-
 ## What is the E Commerce Woo Plugin WordPress?
 
 Used to add woocommerce support to themes using after_setup_theme command
