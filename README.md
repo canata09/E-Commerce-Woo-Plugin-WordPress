@@ -38,6 +38,10 @@ We value your input! If you have any feedback, suggestions, or run into any issu
 
 For additional assistance, you can also contact our support team at support@xyzplugin.com.
 
+## Testing
+
+From the WooCommerce Plugin's Tools -> Import - WooCommerce products (CSV): There is a many Sample Shop Documents in ( WooCommerce - Plugins - Sample-data ) folder.
+
 ## Contributing
 
 We welcome contributions from the community! If you're interested in improving the XYZ Plugin, please review our [Contribution Guidelines](contributing.md).
