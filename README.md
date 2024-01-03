@@ -36,8 +36,8 @@ Try
 
 ## Key Features
 
-- 🚀 **Ana tanım tabloları:** admin, anahtarlar, iskonto, kullanıcılar, listebaslik, listedetay, musteri, musterigrup, musteriekgrup, stok, stokgrup, stokekgrup.
-- 🎨 **Hareket Tabloları:** siparisbaslik, siparisdetay, stokhareket, sepet, odeme ve session.
+- 🚀 **Feature 1:** Try
+- 🎨 **Feature 2:** Try
 - 📦 **Feature 3:** Try
 - 📊 **Feature 4:** Try
 - ⚙️ **Feature 5:** Try
@@ -66,6 +66,11 @@ Note: When creating woocommerce.php in your theme’s folder, you will not be ab
 
 ## Stay Connected
 
+- 🚀 **Ana tanım tabloları:** admin, anahtarlar, iskonto, kullanıcılar, listebaslik, listedetay, musteri, musterigrup, musteriekgrup, stok, stokgrup, stokekgrup.
+- 🎨 **Hareket Tabloları:** siparisbaslik, siparisdetay, stokhareket, sepet, odeme ve session.
+- 📦 **Feature 3:** Try
+- 📊 **Feature 4:** Try
+- ⚙️ **Feature 5:** Try
 We're excited to have you on board and can't wait to see how the XYZ Plugin transforms your creative and development endeavors. Happy coding!
 
 *— The XYZ Plugin Team*
