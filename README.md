@@ -41,11 +41,9 @@ There is a many Sample Shop Documents in " WordPress Directory - Plugins - WooCo
 
 ## Contributing
 
-We welcome contributions from the community! If you're interested in improving the XYZ Plugin, please review our [Contribution Guidelines](contributing.md).
+We welcome contributions from the community! If you're interested in improving the XYZ Plugin, please review our forums.
 
 ## Stay Connected
-
-Stay up-to-date with the latest developments, updates, and announcements by following us on [Twitter](https://twitter.com/xyzplugin) and subscribing to our newsletter on our official website.
 
 We're excited to have you on board and can't wait to see how the XYZ Plugin transforms your creative and development endeavors. Happy coding!
 
