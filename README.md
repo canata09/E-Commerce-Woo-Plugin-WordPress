@@ -10,7 +10,7 @@ Create "templates" folder in the "themes" folder and change the folder's name to
 
 ## Creating Theme Support for WooCommerce
 
-You can find detailed setup instructions for adding WooCommerce support to themes using the after_setup_theme command in the [Theme Support Guide](docs/functions.php).
+You can find detailed setup instructions for adding WooCommerce support to themes using the after_setup_theme command in the [Theme Support Guide](backups/functions.php).
 
 ## Installation
 
