@@ -8,9 +8,9 @@
 
 Create "templates" folder in the "themes" folder and change the folder's name to "woocommerce".
 
-## Getting Started
+## Creating Theme Support for WooCommerce
 
-Getting started with the XYZ Plugin is a breeze:
+Used to add woocommerce support to themes using after_setup_theme command:
 
 1. **Installation:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
 2. **Activation:** Use your provided license key to activate the plugin and unlock its full potential.
