@@ -39,9 +39,21 @@ From the WooCommerce Plugin's <br />
 Tools -> Import - WooCommerce products (CSV) <br />
 There is a many Sample Shop Documents in " WordPress Directory - Plugins - WooCommerce - Sample-data " folder. <br />
 
-## Contributing
+## Additional Contributing
 
-We welcome contributions from the community! If you're interested in improving the XYZ Plugin, please review our forums.
+Duplicate your theme’s page.php file, and name it woocommerce.php. [Theme Support Guide](docs/woocommerce.php).
+This file should be found like this: wp-content/themes/YOURTHEME/woocommerce.php. Open up your newly created woocommerce.php in a text editor, or the editor of your choice. Next you need to find the loop (see The_Loop). The loop usually starts with a:
+```
+<?php if ( have_posts() ) :
+and usually ends with:
+<?php endif; ?>
+```
+This varies between themes. Once you have found it, delete it. In its place, put:
+```
+<?php woocommerce_content(); ?>
+```
+This will make it use WooCommerce’s loop instead. Save the file. You’re done. <br />
+Note: When creating woocommerce.php in your theme’s folder, you will not be able to override the woocommerce/archive-product.php custom template as woocommerce.php has priority over archive-product.php. This is intended to prevent display issues.
 
 ## Stay Connected
 
