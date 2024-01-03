@@ -28,9 +28,9 @@ For in-depth information about using the XYZ Plugin, check out our [Documentatio
 
 - 🚀 **Ana tanım tabloları:** admin, anahtarlar, iskonto, kullanıcılar, listebaslik, listedetay, musteri, musterigrup, musteriekgrup, stok, stokgrup, stokekgrup.
 - 🎨 **Hareket Tabloları:** siparisbaslik, siparisdetay, stokhareket, sepet, odeme ve session.
-- 📦 **Feature 3:** Access a library of pre-built templates and modules that can be easily customized to fit your project requirements.
-- 📊 **Feature 4:** Gain valuable insights with built-in analytics and performance tracking. Optimize your project's efficiency and make data-driven decisions.
-- ⚙️ **Feature 5:** Extensible architecture allows developers to create and share their own plugins and extensions, expanding the capabilities of the XYZ Plugin.
+- 📦 **Feature 3:** Try
+- 📊 **Feature 4:** Try
+- ⚙️ **Feature 5:** Try
 
 ## Feedback and Support
 
