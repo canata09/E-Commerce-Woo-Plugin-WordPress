@@ -23,7 +23,7 @@ Here's the step-by-step pseudocode:
 
 From the WooCommerce Plugin's Pages -> Visit Shop Page  <br />
 Görünüm & Menüler Shop - Shop Page.  <br />
-In order to design a My Login System, it is necessary to install the conditional statement on the home page.
+In order to design a Login System, it is necessary to install the conditional statement on the home page.
 ```
 <?php if ( is_user_logged_in() ) : ?>
     <a href="<?php echo get_permalink(get_option("woocommerce_myaccount_page_id")); ?>"> My Account </a>
