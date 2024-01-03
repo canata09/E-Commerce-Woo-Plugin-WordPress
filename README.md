@@ -16,21 +16,12 @@ This will make it use WooCommerce’s loop instead. Save the file. You’re done
 
 Used to add woocommerce support to themes using after_setup_theme command
 
-## Key Features
-
-- 🚀 **Feature 1:** Feature.
-- 🎨 **Feature 1:** Feature.
-- 📦 **single-product 1:** Single Product Details.
-- 📊 **Feature 1:** Feature.
-- ⚙️ **Feature 1:** Feature.
-
 ## Getting Started
 
 Getting started with the XYZ Plugin is a breeze:
 
 1. **From the WooCommerce Plugin's Tools -> Import - WooCommerce products (CSV):** There is a many Sample Shop Documents in ( WooCommerce - Plugins - Sample-data ) folder.
 2. **From the WooCommerce Plugin's Pages -> Visit Shop Page:** Görünüm & Menüler Shop - Shop Page.
-3. **From the WooCommerce Plugin's Settings -> Accounts and Privacy Menu:** Members are enabled to create a new account.
 
 ## Installation
 
