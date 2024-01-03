@@ -20,9 +20,9 @@ Used to add woocommerce support to themes using after_setup_theme command:
 
 Detailed installation instructions can be found in the [Installation Guide](installation_guide.md).
 
-## Documentation
+## Information About Using E-Commerce Pages
 
-For in-depth information about using the XYZ Plugin, check out our [Documentation](documentation.md) page.
+From the WooCommerce Plugin's Pages -> Visit Shop Page: Görünüm & Menüler Shop - Shop Page.
 
 ## Key Features
 
