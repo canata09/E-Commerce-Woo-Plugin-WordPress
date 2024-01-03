@@ -10,7 +10,8 @@ Create "templates" folder in the "themes" folder and change the folder's name to
 
 ## Creating Theme Support for WooCommerce
 
-Used to add woocommerce support to themes using after_setup_theme command:
+Used to add woocommerce support to themes using after_setup_theme command:  <br />
+Detailed installation instructions can be found in the [Theme Support Guide](docs/functions.php).
 
 1. **Installation:** Simply download the plugin from the official website or install it directly from your preferred IDE's marketplace.
 2. **Activation:** Use your provided license key to activate the plugin and unlock its full potential.
@@ -22,7 +23,8 @@ Detailed installation instructions can be found in the [Installation Guide](inst
 
 ## Information About Using E-Commerce Pages
 
-From the WooCommerce Plugin's Pages -> Visit Shop Page: Görünüm & Menüler Shop - Shop Page.
+From the WooCommerce Plugin's Pages -> Visit Shop Page  <br />
+Görünüm & Menüler Shop - Shop Page.
 
 ## Key Features
 
